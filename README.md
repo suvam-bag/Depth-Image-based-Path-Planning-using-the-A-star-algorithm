@@ -18,3 +18,6 @@ A* is a very famous search algorithm described Peter Hart, Nils Nilsson and Bert
   1. ROS Indigo on Ubuntu 14.04 - http://wiki.ros.org/indigo/Installation/Ubuntu
   2. OpenCV - http://www.samontab.com/web/2014/06/installing-opencv-2-4-9-in-ubuntu-14-04-lts/
   3. OpenNI2 - http://samouresearch.blogspot.com/2015/03/install-openni2-on-ubuntu-1404-with.html
+
+#Link to Paper
+  https://drive.google.com/open?id=0B5BTnIxc0GZzeFdwUi1rTUdlRjA
