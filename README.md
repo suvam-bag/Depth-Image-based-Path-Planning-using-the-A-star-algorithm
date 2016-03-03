@@ -24,3 +24,6 @@ A* is a very famous search algorithm described Peter Hart, Nils Nilsson and Bert
   
 #Demo Video
   https://www.youtube.com/watch?v=t_yDc8QPqoc
+  
+#Presentation
+  https://drive.google.com/open?id=1tRPyxYT9_eXr9mUAyJx5uACJvSC_nRqsFkiEssotxvs
