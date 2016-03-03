@@ -1,3 +1,27 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import rospy 
+import roslib  
+import time  
+import cv2
+import os
+import numpy as np
+import math
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+import random
+import pylab
+from std_msgs.msg import String
+from geometry_msgs.msg import Twist
+from geometry_msgs.msg import Vector3
+from tf2_msgs.msg import TFMessage
+from sensor_msgs.msg import PointCloud2
+from sensor_msgs.msg import Image
+#from image_converter import ToOpenCV
+from cv_bridge import CvBridge, CvBridgeError
+from nav_msgs.msg import Odometry
+#from tf2_msgs import TFMessage  #this is for tf_static
+
 #the main function
 def talker():
 	rospy.init_node('talker', anonymous=True)
