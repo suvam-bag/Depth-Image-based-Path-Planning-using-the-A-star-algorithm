@@ -9,3 +9,6 @@ Path planning is one of the most important branches of autonomous cars both in i
   3. Libraries - OpenCV, OpenNI, RosAria
   4. Hardware - AmigoBot, Asus Xtion
   5. Language - Python
+
+#Description
+A* is a very famous search algorithm described Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now SRI International) in 1968. It is a modified version of Dijkstra's algorithm with a heuristic function added to it. There are many options of the heuristic fucntion, the one used in this project is the manhattan distance between the starting position and the destination. The map used is a binary 2D grid map formed from the depth image of the Xtion. The depth image was converted to a 2D array before transfering to the path planning section of algorithm. The codes for the path planning and the depth image processing have been uploaded in two separate parts. The paper written for the project has also been uploaded for a more detailed description.   
