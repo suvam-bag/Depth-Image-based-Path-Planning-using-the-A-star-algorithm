@@ -1,0 +1,19 @@
+<package>
+  <description brief="cv_bridge">
+
+     cv_bridge
+
+  </description>
+  <author>shanks</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cv_bridge</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="tf"/>
+  <depend package="cv_bridge"/>
+  <depend package="std_msgs"/>  
+  
+</package>
