@@ -4,8 +4,8 @@ Created by Suvam Bag in the Multi-Agent-Biorobotics-Laboratory in Rochester Inst
 #Introduction
 Path planning is one of the most important branches of autonomous cars both in indoor and outdoor environments. The A* algorithm is a heuristic search algoorithm capable of finding the most optimized path to a destination provided a map. The map was built using the depth image of a Asus Xtion sensor and the robot used is an AmigoBot from Adept Mobile Robots. 
 
-  *Operating System - Linux
-  *Frameworks - ROS
-  *Libraries - OpenCV, OpenNI, RosAria
-  *Hardware - AmigoBot, Asus Xtion
-  *Language - Python
+  1. Operating System - Linux
+  2. Frameworks - ROS
+  3. Libraries - OpenCV, OpenNI, RosAria
+  4. Hardware - AmigoBot, Asus Xtion
+  5. Language - Python
